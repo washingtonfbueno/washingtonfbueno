@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, i'm Washington, graduated in Civil Engineering and studying Backend for Web Dev
+Hi there, i'm Washington and i do Backend Web Dev
 
 
 ## 🌐 Socials:
