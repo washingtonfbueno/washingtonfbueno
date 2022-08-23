@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i do Backend with NodeJS and Express
+Hello, i do backend with NodeJS and Express
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/washingtonfbueno/) 
