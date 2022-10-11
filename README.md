@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do backend with NodeJS and Express and front end with ReactJS and Tailwind CSS
+I create backend with ExpressJS and front end with ReactJS.
 
 
 ## 🌐 Socials:
