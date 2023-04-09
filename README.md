@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i am Washington!
+Hello, i am Washington, a full stack web developer, i love understanding how things works, i'm currently studying C++ and grinding on Leetcode.
 
 
 ## 🌐 Socials:
