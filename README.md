@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i am Washington, a software developer, i love understanding how things works, i'm currently studying C++ and grinding on Leetcode.
+Hello, i am Washington, a software developer, i love understanding how things work, i'm currently studying C++ and grinding on Leetcode.
 
 
 ## 🌐 Socials:
