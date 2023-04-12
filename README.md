@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i am a software developer, i love understanding how things work, i'm currently studying to improve my skills on C++ and grinding on Leetcode.
+Hello, i am a Software Developer, i love understanding how things work, i'm currently studying to improve my skills on C++ and grinding on Leetcode.
 
 
 ## 🌐 Socials:
