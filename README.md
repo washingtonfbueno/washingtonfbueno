@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a Software Developer, i love understanding how things work, i'm currently grinding on Leetcode.
+# Hello, i'm Washington!
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=washingtonfbueno&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
